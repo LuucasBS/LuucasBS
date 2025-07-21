@@ -8,18 +8,22 @@ Minha jornada na programação começou em **setembro de 2023**, e já no **prim
 
 ## 🚀 Tecnologias que domino
 
-- ✅ Angular  
-- ✅ TypeScript  
-- ✅ Tailwind CSS  
-- ✅ GitHub  
+<div align="flex flex-col">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+</div>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- 🔧 Java com Spring  
-- 🛢️ PostgreSQL  
-- 🐳 Docker  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /> Java
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" /> Spring
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" /> postgres
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" /> Docker
+ </div>
 
 ---
 
@@ -31,7 +35,7 @@ Meu maior sonho é me tornar um **desenvolvedor Full Stack** e entender **todo o
 
 ## 📫 Vamos nos conectar!
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lucas-borges-de-souza-7536932b7/) ou entrar em contato via e-mail: `lucasborges9002@hotmail.com`.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)* ou entrar em contato via e-mail: `seu@email.com`.
 
 ---
 
