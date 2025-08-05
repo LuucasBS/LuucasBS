@@ -33,10 +33,4 @@ Meu maior sonho é me tornar um **desenvolvedor Full Stack** e entender **todo o
 
 ---
 
-## 📫 Vamos nos conectar!
-
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/) *(adicione seu link aqui)* ou entrar em contato via e-mail: `seu@email.com`.
-
----
-
 > _“Persistência é o caminho do êxito.” – Charles Chaplin_
